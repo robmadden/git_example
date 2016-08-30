@@ -44,3 +44,6 @@ index d0a10dd..0a6299e 100644
  
  ```js
  checkLock(5, 2, 45, 1);  // returns "correct"
+
+ add line here
+ add line two here
